@@ -5,7 +5,7 @@ function App() {
   const tabData = [
     { label: "Author" },
     { label: "Topic" },
-    { label: "Popularity" },
+    { label: "Relevance" },
   ];
 
   return (
