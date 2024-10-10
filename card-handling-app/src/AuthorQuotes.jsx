@@ -14,6 +14,9 @@ function authorAlphabeticalSort() {
     return (
         <div>
             <p>SORTED ALPHABETICALLY</p>
+            <div class="quote">
+                
+            </div>
         </div>
     );
 }
