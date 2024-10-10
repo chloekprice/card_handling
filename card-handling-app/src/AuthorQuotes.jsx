@@ -14,8 +14,10 @@ function authorAlphabeticalSort() {
     return (
         <div>
             <p>SORTED ALPHABETICALLY</p>
+            <h2 class="sort-name">S</h2>
             <div class="quote">
-                
+                <h3 class="quote-text">“How did it get so late so soon?”</h3>
+                <p class="quote-author">-Dr.Seuss</p>
             </div>
         </div>
     );

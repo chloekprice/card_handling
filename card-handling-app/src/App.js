@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       
       <div className="introduction">
-        <h1>Find a Quote for You!</h1>
+        <h1 class="welcome">Find a Quote for You!</h1>
       </div>
       <Tabs tabs={tabData} />
     </div>

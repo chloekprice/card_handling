@@ -6,7 +6,7 @@ import showRelevanceSort from "./RelevanceQuotes";
 import showTopicSort from "./TopicQuotes";
 
 const Tabs = ({ tabs }) => {
-    const [activeTab, setActiveTab] = useState(1);
+    const [activeTab, setActiveTab] = useState(0);
     const[value, setValue] = useState('alphabetical')
 
 
