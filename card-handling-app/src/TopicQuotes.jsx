@@ -19,13 +19,17 @@ function topicAlphabeticalSort() {
 }
 
 function religiousSort() {
-
+    return (
+        <div>
+            <p>SORTED BY RELIG and NON RELIG</p>
+        </div>
+    );
 }
 
 function repeatedSort() {
     return (
         <div>
-            <p>SORTED ALPHABETICALLY</p>
+            <p>SORTED BY NUM OF THAT TOPIC</p>
         </div>
     );
 }

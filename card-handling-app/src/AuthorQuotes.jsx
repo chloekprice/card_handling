@@ -19,13 +19,17 @@ function authorAlphabeticalSort() {
 }
 
 function genderSort() {
-
+    return (
+        <div>
+            <p>SORTED MALE and FEMALE</p>
+        </div>
+    );
 }
 
 function birthdateSort() {
     return (
         <div>
-            <p>SORTED ALPHABETICALLY</p>
+            <p>SORTED BIRTHDATE</p>
         </div>
     );
 }

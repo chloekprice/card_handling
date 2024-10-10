@@ -13,19 +13,23 @@ function  showRelevanceSort(sort) {
 function occupationSort() {
     return (
         <div>
-            <p>SORTED ALPHABETICALLY</p>
+            <p>SORTED BY OCCUPATION/FIELD</p>
         </div>
     );
 }
 
 function popularitySort() {
-
+    return (
+        <div>
+            <p>SORTED BY POPULARITY</p>
+        </div>
+    );
 }
 
 function dateSort() {
     return (
         <div>
-            <p>SORTED ALPHABETICALLY</p>
+            <p>SORTED BY DATE RECORDED</p>
         </div>
     );
 }
