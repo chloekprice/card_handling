@@ -202,7 +202,15 @@ function authorAlphabeticalSort() {
                     </div>
                 </div>
             <h2 class="sort-name">T</h2>
-            “If you tell the truth, you don't have to remember anything.” -Mark Twain
+                <div>
+                    <h3 class="author-name">Twain</h3>
+                    <div>
+                        <div class="quote">
+                            <h3 class="quote-text">“If you tell the truth, you don't have to remember anything."</h3>
+                            <p class="quote-author">-Mark Twain</p>
+                        </div>
+                    </div>
+                </div>    
             <h2 class="sort-name">U</h2>
             <h2 class="sort-name">V</h2>
             <h2 class="sort-name">W</h2>
