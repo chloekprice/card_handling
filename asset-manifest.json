@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card_handling/static/css/main.57553ded.css",
+    "main.js": "/card_handling/static/js/main.7b136c2c.js",
+    "static/js/453.f7680bfe.chunk.js": "/card_handling/static/js/453.f7680bfe.chunk.js",
+    "index.html": "/card_handling/index.html",
+    "main.57553ded.css.map": "/card_handling/static/css/main.57553ded.css.map",
+    "main.7b136c2c.js.map": "/card_handling/static/js/main.7b136c2c.js.map",
+    "453.f7680bfe.chunk.js.map": "/card_handling/static/js/453.f7680bfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57553ded.css",
+    "static/js/main.7b136c2c.js"
+  ]
+}
